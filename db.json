@@ -1,5 +1,5 @@
 {
-  "disciplinas": [
+  "livros": [
     { "id": 1, "titulo": "Dom Casmurro", "autor": "Machado de Assis" },
     { "id": 2, "titulo": "Os Lusíadas", "autor": "Luís de Camões" },
     { "id": 3, "titulo": "O Navio Negreiro", "autor": "Castro Alves" },
